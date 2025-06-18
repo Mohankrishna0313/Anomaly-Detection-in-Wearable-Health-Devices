@@ -1,1 +1,2 @@
 # Anomaly-Detection-in-Wearable-Health-Devices
+The wearable health device anomaly detection system was applied to Data set of their health based on data set such as heart rate, number of steps taken, and sleeping time basa. The system in total was targeted at detecting the anomaly in a correct fashion so that intervention occurs at the right moment. The Alogrithm used in the app is Isolation Forest algorithm, selected due to its scalability and efficiency.
